@@ -1,4 +1,5 @@
-# Code Review Checklist
+<details>
+ <summary>Code Review Checklist</summary>
 
 Reviewers follows [these guidelines](https://dr-dropin.atlassian.net/wiki/spaces/DD/pages/42369027/Dr.Dropin+Code+Review+Guidelines) when reviewing pull requests.
 
@@ -19,3 +20,6 @@ Should you find non-PR related code that could be improved, request a new PR for
 
 ## Testing and Testability
 - [ ] The code contains sufficient testing
+ 
+</details>
+
