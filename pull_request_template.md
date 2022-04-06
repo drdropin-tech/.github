@@ -1,1 +1,1 @@
-[Code Review Guidelines](https://www.notion.so/drdropin/Code-Review-Guidelines-17926a358f4d40f5a8475be44b37e60c)
+[Code Review Guidelines](https://www.notion.so/drdropin/Code-Review-Guidelines-f963bad5a1344440b1b326f96f185193)
